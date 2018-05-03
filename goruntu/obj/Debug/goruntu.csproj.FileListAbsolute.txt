@@ -1,0 +1,18 @@
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.exe.config
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.exe
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\bin\Debug\goruntu.pdb
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.csprojResolveAssemblyReference.cache
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.Form1.resources
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.Properties.Resources.resources
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.csproj.GenerateResource.Cache
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.exe
+c:\users\tolga\documents\visual studio 2015\Projects\goruntu\goruntu\obj\Debug\goruntu.pdb
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\bin\Debug\goruntu.exe.config
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.exe
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.pdb
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\bin\Debug\goruntu.exe
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\bin\Debug\goruntu.pdb
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.csprojResolveAssemblyReference.cache
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.Form1.resources
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.Properties.Resources.resources
+C:\Users\asus.DESKTOP-RAU6CFT\Desktop\goruntu-isleme-master\goruntu-isleme-master\goruntu\obj\Debug\goruntu.csproj.GenerateResource.Cache
